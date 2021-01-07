@@ -1,0 +1,14 @@
+h1 {
+    color: blue
+}
+
+.navbar{
+    height:150;
+    background-color:forestgreen;
+}
+
+.navitem{
+    display:inline-block;
+    color: wheat;
+    margin-left: 100px;
+}
